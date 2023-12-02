@@ -1,0 +1,68 @@
+input{
+    padding : 10px;
+    width: 200px;
+    border-radius: 10px 0px 10px 0px;
+    border: 2px solid black;
+}
+
+::placeholder{
+    color: black;
+}
+
+#addBTN{
+    padding: 10px;
+    margin: 5px;
+    background-color: bisque;
+    border-radius: 10px 0px 10px 0px;
+
+}
+
+#deleteBTN{
+    padding: 10px;
+    margin: 5px;
+    background-color:crimson;
+    color: white;
+    border-radius: 10px 0px 10px 0px;
+}
+
+#saveBTN{
+    padding: 10px;
+    margin: 5px;
+    background-color: bisque;
+    border-radius: 10px 0px 10px 0px;
+}
+
+.button{
+    padding: 10px;
+    margin: 5px;
+    background-color: bisque;
+    border-radius: 10px 0px 10px 0px;
+}
+
+.redbtn{
+    padding: 10px;
+    margin: 5px;
+    background-color:crimson;
+    color: white;
+    border-radius: 10px 0px 10px 0px;
+}
+
+*{
+    padding: 10px;
+    font-family: monospace;
+    background-color: burlywood;
+ }
+
+.listView{
+    font-size: 20px;
+    text-decoration: dotted underline;
+    list-style-type:decimal;
+}
+
+.inputClass{
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 20px 0px 20px 0px;
+    box-shadow: 10px;
+}
+
